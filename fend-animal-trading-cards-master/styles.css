@@ -1,0 +1,61 @@
+
+
+body {
+	color: #6A6B6B;
+}
+
+.card {
+width: 350px;
+display: block;
+margin: 0 auto;
+background: linear-gradient(135deg, rgba(8,247,215,1) 0%, rgba(27,195,208,1) 41%, rgba(55,120,199,1) 100%);
+box-shadow: 4px 5px 34px -8px rgba(92,92,92,1);
+}
+
+.description{
+	width: 278px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+	padding: 10px;
+	font-size: 12px;
+	background-color:rgba(248,245,250,0.5)
+}
+
+.titel {
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+
+.chimpanzee-image {
+	width: 300px;
+	display: block;
+	margin: 0px auto 20px auto;
+ 	border-radius: 5px;
+ 	filter: grayscale(0%)
+}
+
+.funfact {
+	font-style: italic;
+	font-size: 10px;
+}
+
+.list > li > span {
+	font-weight: bold;
+}
+
+.list {
+	list-style: none;
+	padding: 0;
+}
+
+.border {
+	border: 1px #FFFFFF52 solid;
+	border-radius: 20px;
+}
+
+
+
+
+
